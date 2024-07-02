@@ -17,7 +17,7 @@ _The project was developed within the scope of the Econometrics I course taught 
   - [`.ipynb` version](/qual-o-impacto-do-gasto-publico-no-nro-de-mortes.ipynb).
   - [Dataset building](/dataset.ipynb).
 
-- _Scripts e Others_
+- _Extras_
 
   - [Teaching assistant sessions](/notebooks/monitorias.ipynb).
   - [Exercise I](/notebooks/exercicio-empirico-01.ipynb).
