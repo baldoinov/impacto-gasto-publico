@@ -14,6 +14,7 @@ _O trabalho foi desenvolvido no âmbito do curso de Econometria I ministrado no 
 ## Conteúdos
 
 - _Qual o impacto do gasto público no nº de mortes dos municípios brasileiros?_
+  - [Versão em `.pdf`](/qual-o-impacto-do-gasto-publico-no-nro-de-mortes.pdf).
   - [Versão em `.ipynb`](/qual-o-impacto-do-gasto-publico-no-nro-de-mortes.ipynb).
   - [Construção da base de dados](/dataset.ipynb).
 

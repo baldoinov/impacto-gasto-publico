@@ -154,17 +154,7 @@ cython_debug/
 # Recursos de aula que não são relevantes
 
 *.pptx
-*.pdf
 *.zip
-anotacoes/
-slides/
-dados/trab_final/
-dados/ryan/
-municipio.csv
-microdados_mortalidade_1996_2020.csv
-estabelecimentos_saude_2005_2021.csv
-dados/SINASC_2010_2020/
-dados/inep/
 .RData
 .Rhistory
 .Rproj.user
